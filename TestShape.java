@@ -1,4 +1,3 @@
-package College.OOM_Prac1;
 
 class TestShape {
 
